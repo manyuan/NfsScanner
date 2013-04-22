@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">NFS Scaner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nfs_dir">NFS Directories:</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">NFS Scaner</string>
+    <string name="mount_msg">Mount %1$s to local directory: %2$s  ?</string>
+    <string name="scan">Scan</string>
+    <string name="recan">Rescan</string>
+
+</resources>
